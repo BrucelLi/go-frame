@@ -1,0 +1,4 @@
+"authorization.not-found"="auth token 不存在"
+"authorization.sign-method-unavailable"="无效的签名算法"
+"authorization.token-unavailable"="Token 无效"
+"authorization.token-fail"="Token 载荷无效"

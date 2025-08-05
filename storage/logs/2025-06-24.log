@@ -1,0 +1,23 @@
+2025-06-24T18:34:55.302+08:00 [INFO] get locale key: zh-CN
+2025-06-24T18:34:58.779+08:00 [INFO] get locale key: zh-CN
+2025-06-24T18:34:59.734+08:00 [INFO] get locale key: zh-CN
+2025-06-24T18:35:00.260+08:00 [INFO] get locale key: zh-CN
+2025-06-24T18:35:01.132+08:00 [INFO] get locale key: zh-CN
+2025-06-24T18:38:31.300+08:00 [INFO] {284a33bca5f34b1838b83778b04ec067} AuthMiddleware 333
+2025-06-24T18:38:31.301+08:00 [INFO] get locale key: zh-CN
+2025-06-24T18:38:34.170+08:00 [INFO] {284a33bca5f34b1838b83778b04ec067} AuthMiddleware 333
+2025-06-24T18:38:34.170+08:00 [INFO] get locale key: zh-CN
+2025-06-24T18:38:50.942+08:00 [INFO] {284a33bca5f34b1838b83778b04ec067} AuthMiddleware 333
+2025-06-24T18:38:50.942+08:00 [INFO] get locale key: zh-CN
+
+
+2025-06-24T18:42:10.989+08:00 [INFO] {c8a3b9aa81f44b188b1de4383e73493b} AuthMiddleware 3333:
+2025-06-24T18:42:10.990+08:00 [INFO] get locale key: zh-CN
+2025-06-24T18:44:15.386+08:00 [INFO] get locale key: authorization.not-found; lang zh-CN; value: authorization.not-found
+2025-06-24T18:45:38.798+08:00 [INFO] {c8a3b9aa81f44b188b1de4383e73493b} lang init zh-CN
+2025-06-24T18:49:07.025+08:00 [INFO] {6879b142e5f44b1889766277b46e7c75} lang init zh-CN
+2025-06-24T18:49:13.047+08:00 [INFO] get locale key: authorization.not-found; lang zh-CN; value: auth token 不存在
+2025-06-24T18:49:22.699+08:00 [INFO] get locale key: authorization.not-found; lang en; value: auth token is null
+2025-06-24T18:51:35.376+08:00 [INFO] {78ea4fa107f54b18608a277ac39fb724} lang init zh-CN
+2025-06-24T18:51:39.409+08:00 [INFO] get locale key: authorization.not-found; lang en; value: authorization.not-found
+2025-06-24T18:57:07.271+08:00 [INFO] {f8c288ea54f54b183e99f72dd276a06f} lang init zh-CN

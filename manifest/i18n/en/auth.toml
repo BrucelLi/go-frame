@@ -1,0 +1,4 @@
+"authorization.not-found"="auth token is null"
+"authorization.sign-method-unavailable"="auth sign method unavailable"
+"authorization.token-unavailable"="auth token unavailable"
+"authorization.token-fail"="auth invalid load"
