@@ -48,3 +48,18 @@ sequenceDiagram
     S-->>G: 返回结果
     G-->>U: 响应用户
 ```
+
+<pre>
+```mermaid
+sequenceDiagram
+    participant U as 用户
+    participant G as 网关
+    participant S as 服务
+    U->>G: 发起请求
+    G->>S: 转发请求
+    S-->>G: 返回结果
+    G-->>U: 响应用户
+```
+</pre>
+
+### test
